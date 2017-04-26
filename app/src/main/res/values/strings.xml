@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">油量计算器</string>
+    <string name="h_input">请输入</string>
+    <string name="d_input">请输入</string>
+    <string name="l_input">请输入</string>
+    <string name="p_input">请输入</string>
+    <string name="v_val">0</string>
+    <string name="m_val">0</string>
+    <string name="h">油面高度(厘米)：</string>
+    <string name="p">油品密度(千克/升):</string>
+    <string name="l">油罐长度(厘米)：</string>
+    <string name="d">油罐直径(厘米)：</string>
+    <string name="v">油品体积(升)：</string>
+    <string name="m">油品重量(吨)：</string>
+
+
+</resources>
